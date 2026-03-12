@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, for anyone seeing my profile! 😀
 
-<!--
-**jpprogramadorix/jpprogramadorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Internet Informatics student at ETEC Antônio Furlan.
 
-Here are some ideas to get you started:
+This profile is where I share projects and exercises developed during my studies in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in web development, programming, and continuously learning more about the tech world.
+
+## 🛠 Currently learning:
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
